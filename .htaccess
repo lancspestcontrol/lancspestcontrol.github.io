@@ -1,0 +1,68 @@
+## 
+## 404 REDIRECTS FOR PAGES THAT DON'T EXIST
+##
+ErrorDocument 404 /404.html
+
+
+##
+## 301 REDIRECTS
+##
+Redirect 301 /pest-a-to-z/ants http://www.lancspestcontrol.co.uk/ants-infestation-treatment/
+Redirect 301 /pest-a-to-z/ants/ http://www.lancspestcontrol.co.uk/ants-infestation-treatment/
+
+Redirect 301 /bed-bugs http://www.lancspestcontrol.co.uk/bed-bugs-pest-control/
+Redirect 301 /bed-bugs/ http://www.lancspestcontrol.co.uk/bed-bugs-pest-control/
+
+Redirect 301 /cluster-flies  http://www.lancspestcontrol.co.uk/flies-and-cluster-flies-removal/
+Redirect 301 /cluster-flies/ http://www.lancspestcontrol.co.uk/flies-and-cluster-flies-removal/
+
+Redirect 301 /pest-a-to-z/cockroaches http://www.lancspestcontrol.co.uk/cockroaches-pest-control/
+Redirect 301 /pest-a-to-z/cockroaches/ http://www.lancspestcontrol.co.uk/cockroaches-pest-control/
+
+Redirect 301 /fleas http://www.lancspestcontrol.co.uk/fleas-infestation-treatment/
+Redirect 301 /fleas/ http://www.lancspestcontrol.co.uk/fleas-infestation-treatment/
+
+Redirect 301 /pest-a-z/moles http://www.lancspestcontrol.co.uk/garden-moles-pest-control-chorley/
+Redirect 301 /pest-a-z/moles/ http://www.lancspestcontrol.co.uk/garden-moles-pest-control-chorley/
+
+Redirect 301 /pest-a-to-z/squirrels http://www.lancspestcontrol.co.uk/squirrels-pest-control/
+Redirect 301 /pest-a-to-z/squirrels/ http://www.lancspestcontrol.co.uk/squirrels-pest-control/
+
+Redirect 301 /pest-a-to-z/mice http://www.lancspestcontrol.co.uk/mice-pest-control/
+Redirect 301 /pest-a-to-z/mice/ http://www.lancspestcontrol.co.uk/mice-pest-control/
+
+Redirect 301 /pest-a-to-z/silverfish http://www.lancspestcontrol.co.uk/silverfish-infestation-treatment/
+Redirect 301 /pest-a-to-z/silverfish/ http://www.lancspestcontrol.co.uk/silverfish-infestation-treatment/
+
+Redirect 301 /rats-mice http://www.lancspestcontrol.co.uk/rat-pest-control/
+Redirect 301 /rats-mice/ http://www.lancspestcontrol.co.uk/rat-pest-control/
+
+Redirect 301 /wasp-removal-service http://www.lancspestcontrol.co.uk/wasp-nest-removal/
+Redirect 301 /wasp-removal-service/ http://www.lancspestcontrol.co.uk/wasp-nest-removal/
+
+Redirect 301 /wasp-removal-service/book-wasp-removal http://www.lancspestcontrol.co.uk/wasp-nest-removal/
+Redirect 301 /wasp-removal-service/book-wasp-removal/ http://www.lancspestcontrol.co.uk/wasp-nest-removal/
+
+Redirect 301 /pest-control-for-business http://www.lancspestcontrol.co.uk/commercial-pest-prevention-for-business/
+Redirect 301 /pest-control-for-business/ http://www.lancspestcontrol.co.uk/commercial-pest-prevention-for-business/
+
+Redirect 301 /pest-prevention-for-business/pest-control-contracts-for-business http://www.lancspestcontrol.co.uk/commercial-pest-prevention-for-business/pest-control-contracts-for-business/
+Redirect 301 /pest-prevention-for-business/pest-control-contracts-for-business/ http://www.lancspestcontrol.co.uk/commercial-pest-prevention-for-business/pest-control-contracts-for-business/
+
+Redirect 301 /arrange-a-callback http://www.lancspestcontrol.co.uk/contact-us/
+Redirect 301 /arrange-a-callback/ http://www.lancspestcontrol.co.uk/contact-us/
+
+Redirect 301 /pest-control-for-your-home http://www.lancspestcontrol.co.uk/
+Redirect 301 /pest-control-for-your-home/ http://www.lancspestcontrol.co.uk/
+
+Redirect 301 /accessibility http://www.lancspestcontrol.co.uk/
+Redirect 301 /accessibility/ http://www.lancspestcontrol.co.uk/
+
+Redirect 301 /rat-catcher http://www.lancspestcontrol.co.uk/rat-pest-control/
+Redirect 301 /rat-catcher/ http://www.lancspestcontrol.co.uk/rat-pest-control/
+
+Redirect 301 /mice-infestation http://www.lancspestcontrol.co.uk/mice-pest-control/
+Redirect 301 /mice-infestation/ http://www.lancspestcontrol.co.uk/mice-pest-control/
+
+Redirect 301 /rat-mice-pest-control http://www.lancspestcontrol.co.uk/rat-pest-control/rat-pest-control/
+Redirect 301 /rat-mice-pest-control/ http://www.lancspestcontrol.co.uk/rat-pest-control/

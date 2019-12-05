@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lancashire Pest Control Commercial &amp; Domestic Services</title>
+    <description>Professional family run Pest Control company based in Chorley, providing Rapid Pest Control services in Preston, Bolton and all surrounding areas. Experts in Wasps, Bed Bugs. Rats, Moles and more.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 05 Dec 2019 17:11:49 +0000</pubDate>
+    <lastBuildDate>Thu, 05 Dec 2019 17:11:49 +0000</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+  </channel>
+</rss>

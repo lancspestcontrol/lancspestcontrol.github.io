@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /form-bottom/
+Disallow: /form-header/
+Disallow: /form-what-happens-now/
+Disallow: /php-includes/
+Disallow: /thank-you.php
+Disallow: /Gruntfile.js
+Disallow: /node_modules/
+Disallow: /package.json
+Sitemap: http://www.lancspestcontrol.co.uk/sitemap.xml
